@@ -2,7 +2,7 @@
 
 This is Lesson 9 deployed onto the Sepolia testnet. 
 
-It involves a smart contract raffle where users can enter a random raffle. And using Chainlink's offchain upkeep functionalty, it enables true randomness of the raffle.
+It involves a smart contract raffle where users can enter a random raffle. And using Chainlink's offchain upkeep functionalty, it enables true randomness.
 
 <img width="753" alt="Screenshot 2023-05-15 at 1 45 14 PM" src="https://github.com/the-vegetarian-vampire/Lesson9-Hardhat-Smart-Contract-Lottery/assets/105305546/49d61b88-5577-4fa1-ab39-07c57098829c">
 
