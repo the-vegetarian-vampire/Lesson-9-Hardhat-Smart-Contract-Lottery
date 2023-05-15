@@ -1,4 +1,4 @@
-# Hardhat Smartcontract Lottery (Raffle) FCC
+# Hardhat Smart Contract Lottery (Raffle) FCC
 
 This is Lesson 9 deployed onto the Sepolia testnet. 
 
